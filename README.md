@@ -3,7 +3,7 @@
 <p align="center">
 Usine Chocolat est une plateforme intégrée de gestion d'usine développée avec <strong>Laravel</strong>, reliée à une base de données <strong>MySQL</strong>, permettant de gérer et suivre tous les aspects de la production de chocolat.
 
-Créée dans le cadre d'un projet de <strong>portes ouvertes</strong> en partenariat avec une filière de l'IUT spécialisée dans la <strong>qualité et production de vrais chocolat</strong>, cette application propose une <strong>interface mobile intuitive pour les visiteurs</strong> et une <strong>interface desktop complète pour les agents de la chaîne de production</strong> gérant les commandes, stocks et objectifs.
+Créée dans le cadre d'un projet de <strong>portes ouvertes</strong> en partenariat avec une filière de l'IUT spécialisée dans la <strong>qualité et production</strong>, cette application propose une <strong>interface mobile intuitive permettant de commander des chocolats pour les visiteurs</strong> et une <strong>interface desktop complète pour les agents de la chaîne de production</strong> gérant les commandes, stocks et objectifs.
 
 Le site intègre un système d'authentification sécurisé, une gestion hiérarchisée des équipes et postes, et une organisation complète : <strong>Équipes</strong> organisées par <strong>Postes</strong>, gestion des <strong>Commandes</strong> déclinées en <strong>Étapes</strong>, suivi des <strong>Stocks</strong> et <strong>Objectifs</strong> de production.
 </p>
