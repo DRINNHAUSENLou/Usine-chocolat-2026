@@ -3,11 +3,47 @@
 <p align="center">
 Usine Chocolat est une plateforme intégrée de gestion d'usine développée avec <strong>Laravel</strong>, reliée à une base de données <strong>MySQL</strong>, permettant de gérer et suivre tous les aspects de la production de chocolat.
 
-Créée dans le cadre d'un projet de <strong>portes ouvertes</strong> en partenariat avec une filière de l'IUT spécialisée dans la <strong>qualité et production</strong>, cette application propose une <strong>interface mobile intuitive permettant de commander des chocolats pour les visiteurs</strong> et une <strong>interface desktop complète pour les agents de la chaîne de production</strong> gérant les commandes, stocks et objectifs.
+Créée dans le cadre d'un projet de <strong>portes ouvertes</strong> en partenariat avec une filière de l'IUT spécialisée dans la <strong>qualité et production</strong>, cette application propose une <strong>interface mobile intuitive permettant de commander des chocolats pour les visiteurs</strong> et une <strong>interface desktop complète pour les agents de la chaîne de production</strong> gérant les commandes, stocks et objectifs (superviseur et opérateur).
 
 Le site intègre un système d'authentification sécurisé, une gestion hiérarchisée des équipes et postes, et une organisation complète : <strong>Équipes</strong> organisées par <strong>Postes</strong>, gestion des <strong>Commandes</strong> déclinées en <strong>Étapes</strong>, suivi des <strong>Stocks</strong> et <strong>Objectifs</strong> de production.
 </p>
 
+<h2>Interface Visiteur (Mobile)</h2>
+
+<p>
+Une interface mobile intuitive permettant aux visiteurs de consulter les produits et passer commande facilement lors des portes ouvertes.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a7f4efd-4599-43a7-ab28-f43a49048bf5" alt="Page visiteur" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f5f36b5b-8cf6-4e45-9c65-a7425ebbfb11" alt="Page commande" width="250"/>
+</p>
+
+<h2>Interface Opérateur & Superviseur</h2>
+
+<p>
+Interfaces desktop complètes permettant aux agents et superviseurs de gérer la production, suivre les commandes et analyser les performances.
+</p>
+
+<h3>Gestion des commandes</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9309899d-5c28-42d8-b956-b767b2b1798d" alt="Liste des commandes" width="700"/>
+</p>
+
+<h3>Gestion des stocks</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a0da185-7643-4d1c-a5ba-584d95438818" alt="Gestion du frigo" width="700"/>
+</p>
+
+<h3>Statistiques de production</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94a207eb-8a80-4168-acf1-53499d02feb2" alt="Statistiques" width="700"/>
+</p>
+
+<h3>Administration</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8606c3e-4109-4f0b-a0bf-2f09648c39ce" alt="Interface admin" width="500"/>
+</p>
 
 <h2>Actions à faire pour mettre en place le projet</h2>
 
